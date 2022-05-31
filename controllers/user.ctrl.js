@@ -10,8 +10,8 @@ let emailTransport = nodemailer.createTransport({
   host: "smtp.gmail.com",
   secure: true,
   auth: {
-    user: "testdemobymillz@gmail.com",
-    pass: "?testdemo1",
+    user: "insert your mail @gmail.com",
+    pass: "insert the password",
   },
   tls: {
     rejectUnauthorized: false,
